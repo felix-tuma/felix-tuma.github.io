@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink:
+permalink: /portfolio/
 title: "Posts by tags"
 author_profile: structured
 #header:
