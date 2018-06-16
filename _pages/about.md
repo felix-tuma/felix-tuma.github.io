@@ -1,7 +1,7 @@
 ---
 title: "About"
 permalink: /about/
-header:
-  image: ""
+#header:
+#  image: ""
 ---
-I'm an economist with an interest in financial markets and how to use the latest advances in AI for finance.
+I'm an economist with an interest in financial markets & data science and explore to use the latest advances in machine learning for finance.
